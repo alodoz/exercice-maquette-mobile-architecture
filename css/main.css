@@ -26,6 +26,8 @@ body {
 
   font-size: 1rem;
   line-height: 1.5rem;
+  max-width: 414px;
+  font-family: 'Roboto', sans-serif;
 }
 
 a {
@@ -39,6 +41,45 @@ video {
   vertical-align: text-top;
 }
 
-/* ====================================
-// base rules
-// ==================================== */
+
+
+header {
+  margin: 8px;
+}
+
+a {
+  margin: 0 8px 0 0;
+}
+
+nav {
+  padding: 10px 0 53px;
+}
+
+h1, h2 {
+  margin: 0 0 0 8px;
+}
+
+.text {
+  margin: 54px 77px 56px 8px;
+  font-size: 16px;
+}
+
+h2 {
+  font-size: 16px;
+  margin: 9px 0 0 8px;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+.info {
+  margin: 47px 0 20px 8px;
+  font-size: 12px;
+}
+
+main nav {
+  text-align: center;
+  margin: 0 0 100px 0;
+  font-size: 12px;
+}
