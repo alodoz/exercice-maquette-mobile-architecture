@@ -39,6 +39,7 @@ video {
   max-inline-size: 100%;
   block-size: auto;
   vertical-align: text-top;
+  margin: none;
 }
 
 
@@ -80,6 +81,10 @@ h1 {
 
 main nav {
   text-align: center;
-  margin: 0 0 100px 0;
+  margin: 28px 0 100px 0;
   font-size: 12px;
+}
+
+.info p {
+  line-height: 1.2;
 }
